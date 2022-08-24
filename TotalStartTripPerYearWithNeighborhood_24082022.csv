@@ -1,0 +1,1180 @@
+,Year,usertype,Neighborhood ID,Neighborhood Name,Number of Rides
+0,2013,Customer,1,Grand Boulevard,876
+1,2013,Customer,14,Logan Square,2565
+2,2013,Customer,2,Printers Row,2532
+3,2013,Customer,27,Loop,61706
+4,2013,Customer,3,United Center,753
+5,2013,Customer,31,Greektown,979
+6,2013,Customer,32,Douglas,4813
+7,2013,Customer,33,Museum Campus,11999
+8,2013,Customer,34,Edgewater,362
+9,2013,Customer,35,Lake View,18777
+10,2013,Customer,36,Lincoln Park,33305
+11,2013,Customer,38,Lincoln Square,2184
+12,2013,Customer,4,Sheffield & DePaul,6770
+13,2013,Customer,40,Grant Park,3923
+14,2013,Customer,41,West Loop,21175
+15,2013,Customer,46,Rush & Division,6339
+16,2013,Customer,47,"Little Italy, UIC",6815
+17,2013,Customer,48,Kenwood,1096
+18,2013,Customer,5,Humboldt Park,663
+19,2013,Customer,57,Uptown,5437
+20,2013,Customer,59,Streeterville,44476
+21,2013,Customer,64,North Center,1780
+22,2013,Customer,66,Washington Park,118
+23,2013,Customer,67,Millenium Park,14034
+24,2013,Customer,68,Near South Side,14545
+25,2013,Customer,69,Chinatown,1271
+26,2013,Customer,75,Hyde Park,2335
+27,2013,Customer,76,Bucktown,2872
+28,2013,Customer,77,Lower West Side,3648
+29,2013,Customer,78,Wrigleyville,5016
+30,2013,Customer,8,Little Village,220
+31,2013,Customer,82,East Village,780
+32,2013,Customer,83,West Town,9156
+33,2013,Customer,84,Bridgeport,1494
+34,2013,Customer,89,Wicker Park,9965
+35,2013,Customer,90,Ukrainian Village,1055
+36,2013,Customer,93,Old Town,12208
+37,2013,Customer,96,Gold Coast,10906
+38,2013,Customer,97,Boystown,594
+39,2013,Customer,98,River North,27210
+40,2013,Subscriber,1,Grand Boulevard,718
+41,2013,Subscriber,14,Logan Square,3334
+42,2013,Subscriber,2,Printers Row,2498
+43,2013,Subscriber,27,Loop,79370
+44,2013,Subscriber,3,United Center,764
+45,2013,Subscriber,31,Greektown,1870
+46,2013,Subscriber,32,Douglas,2097
+47,2013,Subscriber,33,Museum Campus,1858
+48,2013,Subscriber,34,Edgewater,293
+49,2013,Subscriber,35,Lake View,22382
+50,2013,Subscriber,36,Lincoln Park,23616
+51,2013,Subscriber,38,Lincoln Square,3472
+52,2013,Subscriber,4,Sheffield & DePaul,9415
+53,2013,Subscriber,40,Grant Park,2949
+54,2013,Subscriber,41,West Loop,71857
+55,2013,Subscriber,46,Rush & Division,7896
+56,2013,Subscriber,47,"Little Italy, UIC",12898
+57,2013,Subscriber,48,Kenwood,938
+58,2013,Subscriber,5,Humboldt Park,893
+59,2013,Subscriber,57,Uptown,4794
+60,2013,Subscriber,59,Streeterville,18354
+61,2013,Subscriber,64,North Center,2917
+62,2013,Subscriber,66,Washington Park,121
+63,2013,Subscriber,67,Millenium Park,3238
+64,2013,Subscriber,68,Near South Side,10016
+65,2013,Subscriber,69,Chinatown,973
+66,2013,Subscriber,75,Hyde Park,1668
+67,2013,Subscriber,76,Bucktown,5461
+68,2013,Subscriber,77,Lower West Side,4377
+69,2013,Subscriber,78,Wrigleyville,5091
+70,2013,Subscriber,8,Little Village,61
+71,2013,Subscriber,82,East Village,1302
+72,2013,Subscriber,83,West Town,15693
+73,2013,Subscriber,84,Bridgeport,1364
+74,2013,Subscriber,89,Wicker Park,12408
+75,2013,Subscriber,90,Ukrainian Village,1639
+76,2013,Subscriber,93,Old Town,12386
+77,2013,Subscriber,96,Gold Coast,4133
+78,2013,Subscriber,97,Boystown,1238
+79,2013,Subscriber,98,River North,46684
+80,2014,Customer,1,Grand Boulevard,1937
+81,2014,Customer,14,Logan Square,7317
+82,2014,Customer,2,Printers Row,2916
+83,2014,Customer,27,Loop,122336
+84,2014,Customer,3,United Center,1454
+85,2014,Customer,31,Greektown,2013
+86,2014,Customer,32,Douglas,13201
+87,2014,Customer,33,Museum Campus,32369
+88,2014,Customer,34,Edgewater,2477
+89,2014,Customer,35,Lake View,54840
+90,2014,Customer,36,Lincoln Park,101323
+91,2014,Customer,38,Lincoln Square,5203
+92,2014,Customer,4,Sheffield & DePaul,12585
+93,2014,Customer,40,Grant Park,20287
+94,2014,Customer,41,West Loop,31032
+95,2014,Customer,46,Rush & Division,15198
+96,2014,Customer,47,"Little Italy, UIC",11525
+97,2014,Customer,48,Kenwood,3963
+98,2014,Customer,5,Humboldt Park,1937
+99,2014,Customer,57,Uptown,21623
+100,2014,Customer,59,Streeterville,96807
+101,2014,Customer,64,North Center,5391
+102,2014,Customer,66,Washington Park,449
+103,2014,Customer,67,Millenium Park,22314
+104,2014,Customer,68,Near South Side,21881
+105,2014,Customer,69,Chinatown,3427
+106,2014,Customer,75,Hyde Park,7541
+107,2014,Customer,76,Bucktown,7532
+108,2014,Customer,77,Lower West Side,5750
+109,2014,Customer,78,Wrigleyville,8666
+110,2014,Customer,8,Little Village,224
+111,2014,Customer,82,East Village,693
+112,2014,Customer,83,West Town,15344
+113,2014,Customer,84,Bridgeport,2198
+114,2014,Customer,89,Wicker Park,17038
+115,2014,Customer,90,Ukrainian Village,2723
+116,2014,Customer,93,Old Town,29247
+117,2014,Customer,96,Gold Coast,26768
+118,2014,Customer,97,Boystown,5272
+119,2014,Customer,98,River North,46439
+120,2014,Subscriber,1,Grand Boulevard,1179
+121,2014,Subscriber,14,Logan Square,18604
+122,2014,Subscriber,2,Printers Row,5899
+123,2014,Subscriber,27,Loop,271336
+124,2014,Subscriber,3,United Center,3819
+125,2014,Subscriber,31,Greektown,7239
+126,2014,Subscriber,32,Douglas,11023
+127,2014,Subscriber,33,Museum Campus,7768
+128,2014,Subscriber,34,Edgewater,2444
+129,2014,Subscriber,35,Lake View,148261
+130,2014,Subscriber,36,Lincoln Park,128133
+131,2014,Subscriber,38,Lincoln Square,22386
+132,2014,Subscriber,4,Sheffield & DePaul,42996
+133,2014,Subscriber,40,Grant Park,17145
+134,2014,Subscriber,41,West Loop,233272
+135,2014,Subscriber,46,Rush & Division,38314
+136,2014,Subscriber,47,"Little Italy, UIC",58088
+137,2014,Subscriber,48,Kenwood,2522
+138,2014,Subscriber,5,Humboldt Park,4209
+139,2014,Subscriber,57,Uptown,34893
+140,2014,Subscriber,59,Streeterville,71012
+141,2014,Subscriber,64,North Center,15799
+142,2014,Subscriber,66,Washington Park,558
+143,2014,Subscriber,67,Millenium Park,9761
+144,2014,Subscriber,68,Near South Side,37362
+145,2014,Subscriber,69,Chinatown,5037
+146,2014,Subscriber,75,Hyde Park,7708
+147,2014,Subscriber,76,Bucktown,26109
+148,2014,Subscriber,77,Lower West Side,18936
+149,2014,Subscriber,78,Wrigleyville,16879
+150,2014,Subscriber,8,Little Village,361
+151,2014,Subscriber,82,East Village,3228
+152,2014,Subscriber,83,West Town,61969
+153,2014,Subscriber,84,Bridgeport,8112
+154,2014,Subscriber,89,Wicker Park,53857
+155,2014,Subscriber,90,Ukrainian Village,7988
+156,2014,Subscriber,93,Old Town,63086
+157,2014,Subscriber,96,Gold Coast,21318
+158,2014,Subscriber,97,Boystown,11809
+159,2014,Subscriber,98,River North,162975
+160,2015,Customer,1,Grand Boulevard,2412
+161,2015,Customer,13,Avondale,1491
+162,2015,Customer,14,Logan Square,12809
+163,2015,Customer,19,New City,139
+164,2015,Customer,2,Printers Row,4678
+165,2015,Customer,20,Englewood,173
+166,2015,Customer,21,Grand Crossing,187
+167,2015,Customer,26,Jackson Park,4652
+168,2015,Customer,27,Loop,149924
+169,2015,Customer,3,United Center,2011
+170,2015,Customer,31,Greektown,1920
+171,2015,Customer,32,Douglas,12390
+172,2015,Customer,33,Museum Campus,60560
+173,2015,Customer,34,Edgewater,9770
+174,2015,Customer,35,Lake View,50973
+175,2015,Customer,36,Lincoln Park,106151
+176,2015,Customer,38,Lincoln Square,7002
+177,2015,Customer,4,Sheffield & DePaul,11197
+178,2015,Customer,40,Grant Park,34108
+179,2015,Customer,41,West Loop,30772
+180,2015,Customer,42,Fuller Park,87
+181,2015,Customer,43,Andersonville,1100
+182,2015,Customer,44,Woodlawn,1698
+183,2015,Customer,46,Rush & Division,15043
+184,2015,Customer,47,"Little Italy, UIC",9622
+185,2015,Customer,48,Kenwood,3686
+186,2015,Customer,49,Rogers Park,2838
+187,2015,Customer,5,Humboldt Park,3935
+188,2015,Customer,52,North Park,648
+189,2015,Customer,53,Albany Park,1163
+190,2015,Customer,54,Irving Park,1497
+191,2015,Customer,56,West Ridge,1374
+192,2015,Customer,57,Uptown,23387
+193,2015,Customer,59,Streeterville,111005
+194,2015,Customer,6,Garfield Park,342
+195,2015,Customer,60,South Shore,1038
+196,2015,Customer,64,North Center,6006
+197,2015,Customer,66,Washington Park,588
+198,2015,Customer,67,Millenium Park,25020
+199,2015,Customer,68,Near South Side,21366
+200,2015,Customer,69,Chinatown,3583
+201,2015,Customer,7,North Lawndale,508
+202,2015,Customer,75,Hyde Park,11221
+203,2015,Customer,76,Bucktown,10129
+204,2015,Customer,77,Lower West Side,5236
+205,2015,Customer,78,Wrigleyville,7956
+206,2015,Customer,8,Little Village,564
+207,2015,Customer,81,Mckinley Park,502
+208,2015,Customer,82,East Village,652
+209,2015,Customer,83,West Town,14422
+210,2015,Customer,84,Bridgeport,2178
+211,2015,Customer,89,Wicker Park,17328
+212,2015,Customer,9,Armour Square,685
+213,2015,Customer,90,Ukrainian Village,2672
+214,2015,Customer,93,Old Town,27753
+215,2015,Customer,96,Gold Coast,33452
+216,2015,Customer,97,Boystown,7350
+217,2015,Customer,98,River North,48930
+218,2015,Dependent,32,Douglas,15
+219,2015,Dependent,33,Museum Campus,1
+220,2015,Dependent,36,Lincoln Park,5
+221,2015,Dependent,41,West Loop,3
+222,2015,Dependent,68,Near South Side,2
+223,2015,Dependent,69,Chinatown,34
+224,2015,Dependent,77,Lower West Side,12
+225,2015,Dependent,84,Bridgeport,65
+226,2015,Dependent,9,Armour Square,4
+227,2015,Dependent,96,Gold Coast,2
+228,2015,Subscriber,1,Grand Boulevard,3026
+229,2015,Subscriber,13,Avondale,3974
+230,2015,Subscriber,14,Logan Square,36378
+231,2015,Subscriber,19,New City,334
+232,2015,Subscriber,2,Printers Row,12868
+233,2015,Subscriber,20,Englewood,216
+234,2015,Subscriber,21,Grand Crossing,271
+235,2015,Subscriber,26,Jackson Park,1880
+236,2015,Subscriber,27,Loop,326228
+237,2015,Subscriber,3,United Center,6158
+238,2015,Subscriber,31,Greektown,10342
+239,2015,Subscriber,32,Douglas,16232
+240,2015,Subscriber,33,Museum Campus,14537
+241,2015,Subscriber,34,Edgewater,17902
+242,2015,Subscriber,35,Lake View,177297
+243,2015,Subscriber,36,Lincoln Park,160474
+244,2015,Subscriber,38,Lincoln Square,41435
+245,2015,Subscriber,4,Sheffield & DePaul,54335
+246,2015,Subscriber,40,Grant Park,22719
+247,2015,Subscriber,41,West Loop,296382
+248,2015,Subscriber,42,Fuller Park,348
+249,2015,Subscriber,43,Andersonville,3780
+250,2015,Subscriber,44,Woodlawn,3293
+251,2015,Subscriber,46,Rush & Division,50888
+252,2015,Subscriber,47,"Little Italy, UIC",74911
+253,2015,Subscriber,48,Kenwood,4659
+254,2015,Subscriber,49,Rogers Park,7390
+255,2015,Subscriber,5,Humboldt Park,7340
+256,2015,Subscriber,52,North Park,1633
+257,2015,Subscriber,53,Albany Park,3718
+258,2015,Subscriber,54,Irving Park,3929
+259,2015,Subscriber,56,West Ridge,2060
+260,2015,Subscriber,57,Uptown,51974
+261,2015,Subscriber,59,Streeterville,88311
+262,2015,Subscriber,6,Garfield Park,916
+263,2015,Subscriber,60,South Shore,990
+264,2015,Subscriber,64,North Center,24214
+265,2015,Subscriber,66,Washington Park,1410
+266,2015,Subscriber,67,Millenium Park,11680
+267,2015,Subscriber,68,Near South Side,44592
+268,2015,Subscriber,69,Chinatown,6664
+269,2015,Subscriber,7,North Lawndale,847
+270,2015,Subscriber,75,Hyde Park,31945
+271,2015,Subscriber,76,Bucktown,35653
+272,2015,Subscriber,77,Lower West Side,22115
+273,2015,Subscriber,78,Wrigleyville,21892
+274,2015,Subscriber,8,Little Village,1701
+275,2015,Subscriber,81,Mckinley Park,890
+276,2015,Subscriber,82,East Village,4189
+277,2015,Subscriber,83,West Town,82999
+278,2015,Subscriber,84,Bridgeport,12698
+279,2015,Subscriber,89,Wicker Park,68080
+280,2015,Subscriber,9,Armour Square,4320
+281,2015,Subscriber,90,Ukrainian Village,12245
+282,2015,Subscriber,93,Old Town,77843
+283,2015,Subscriber,96,Gold Coast,32850
+284,2015,Subscriber,97,Boystown,23474
+285,2015,Subscriber,98,River North,221984
+286,2016,Customer,0,not yet,4054
+287,2016,Customer,1,Grand Boulevard,1767
+288,2016,Customer,10,Avalon Park,13
+289,2016,Customer,12,Hermosa,48
+290,2016,Customer,13,Avondale,1158
+291,2016,Customer,14,Logan Square,10237
+292,2016,Customer,19,New City,214
+293,2016,Customer,2,Printers Row,3331
+294,2016,Customer,20,Englewood,177
+295,2016,Customer,21,Grand Crossing,103
+296,2016,Customer,26,Jackson Park,4417
+297,2016,Customer,27,Loop,145419
+298,2016,Customer,3,United Center,1567
+299,2016,Customer,32,Douglas,10156
+300,2016,Customer,33,Museum Campus,64040
+301,2016,Customer,34,Edgewater,9286
+302,2016,Customer,35,Lake View,46847
+303,2016,Customer,36,Lincoln Park,98593
+304,2016,Customer,38,Lincoln Square,5083
+305,2016,Customer,4,Sheffield & DePaul,8368
+306,2016,Customer,40,Grant Park,29389
+307,2016,Customer,41,West Loop,26966
+308,2016,Customer,42,Fuller Park,73
+309,2016,Customer,43,Andersonville,920
+310,2016,Customer,44,Woodlawn,890
+311,2016,Customer,45,Portage Park,50
+312,2016,Customer,46,Rush & Division,12292
+313,2016,Customer,47,"Little Italy, UIC",6925
+314,2016,Customer,48,Kenwood,2627
+315,2016,Customer,49,Rogers Park,3483
+316,2016,Customer,5,Humboldt Park,3116
+317,2016,Customer,52,North Park,417
+318,2016,Customer,53,Albany Park,724
+319,2016,Customer,54,Irving Park,1495
+320,2016,Customer,56,West Ridge,977
+321,2016,Customer,57,Uptown,19868
+322,2016,Customer,59,Streeterville,122675
+323,2016,Customer,6,Garfield Park,546
+324,2016,Customer,60,South Shore,657
+325,2016,Customer,61,Chatham,81
+326,2016,Customer,62,South Chicago,22
+327,2016,Customer,64,North Center,4317
+328,2016,Customer,66,Washington Park,566
+329,2016,Customer,67,Millenium Park,25763
+330,2016,Customer,68,Near South Side,18391
+331,2016,Customer,69,Chinatown,2740
+332,2016,Customer,7,North Lawndale,221
+333,2016,Customer,75,Hyde Park,9627
+334,2016,Customer,76,Bucktown,7616
+335,2016,Customer,77,Lower West Side,3821
+336,2016,Customer,78,Wrigleyville,2968
+337,2016,Customer,8,Little Village,351
+338,2016,Customer,81,Mckinley Park,410
+339,2016,Customer,82,East Village,472
+340,2016,Customer,83,West Town,11066
+341,2016,Customer,84,Bridgeport,1422
+342,2016,Customer,89,Wicker Park,13845
+343,2016,Customer,9,Armour Square,841
+344,2016,Customer,90,Ukrainian Village,1896
+345,2016,Customer,93,Old Town,25067
+346,2016,Customer,95,Austin,271
+347,2016,Customer,96,Gold Coast,30952
+348,2016,Customer,97,Boystown,6280
+349,2016,Customer,98,River North,40500
+350,2016,Dependent,32,Douglas,2
+351,2016,Dependent,69,Chinatown,14
+352,2016,Dependent,84,Bridgeport,24
+353,2016,Subscriber,0,not yet,14201
+354,2016,Subscriber,1,Grand Boulevard,3587
+355,2016,Subscriber,10,Avalon Park,83
+356,2016,Subscriber,12,Hermosa,493
+357,2016,Subscriber,13,Avondale,6826
+358,2016,Subscriber,14,Logan Square,43675
+359,2016,Subscriber,19,New City,767
+360,2016,Subscriber,2,Printers Row,17146
+361,2016,Subscriber,20,Englewood,278
+362,2016,Subscriber,21,Grand Crossing,480
+363,2016,Subscriber,26,Jackson Park,2511
+364,2016,Subscriber,27,Loop,390717
+365,2016,Subscriber,3,United Center,6798
+366,2016,Subscriber,32,Douglas,23144
+367,2016,Subscriber,33,Museum Campus,20454
+368,2016,Subscriber,34,Edgewater,25650
+369,2016,Subscriber,35,Lake View,209844
+370,2016,Subscriber,36,Lincoln Park,192737
+371,2016,Subscriber,38,Lincoln Square,50399
+372,2016,Subscriber,4,Sheffield & DePaul,64908
+373,2016,Subscriber,40,Grant Park,27132
+374,2016,Subscriber,41,West Loop,370943
+375,2016,Subscriber,42,Fuller Park,505
+376,2016,Subscriber,43,Andersonville,5706
+377,2016,Subscriber,44,Woodlawn,5078
+378,2016,Subscriber,45,Portage Park,174
+379,2016,Subscriber,46,Rush & Division,58612
+380,2016,Subscriber,47,"Little Italy, UIC",89696
+381,2016,Subscriber,48,Kenwood,6244
+382,2016,Subscriber,49,Rogers Park,16183
+383,2016,Subscriber,5,Humboldt Park,10064
+384,2016,Subscriber,52,North Park,2178
+385,2016,Subscriber,53,Albany Park,5443
+386,2016,Subscriber,54,Irving Park,7624
+387,2016,Subscriber,56,West Ridge,3660
+388,2016,Subscriber,57,Uptown,61728
+389,2016,Subscriber,59,Streeterville,116162
+390,2016,Subscriber,6,Garfield Park,2365
+391,2016,Subscriber,60,South Shore,1616
+392,2016,Subscriber,61,Chatham,272
+393,2016,Subscriber,62,South Chicago,7
+394,2016,Subscriber,64,North Center,29531
+395,2016,Subscriber,66,Washington Park,2053
+396,2016,Subscriber,67,Millenium Park,11690
+397,2016,Subscriber,68,Near South Side,54237
+398,2016,Subscriber,69,Chinatown,6420
+399,2016,Subscriber,7,North Lawndale,2219
+400,2016,Subscriber,75,Hyde Park,42693
+401,2016,Subscriber,76,Bucktown,41928
+402,2016,Subscriber,77,Lower West Side,25524
+403,2016,Subscriber,78,Wrigleyville,14011
+404,2016,Subscriber,8,Little Village,2154
+405,2016,Subscriber,81,Mckinley Park,923
+406,2016,Subscriber,82,East Village,4698
+407,2016,Subscriber,83,West Town,98602
+408,2016,Subscriber,84,Bridgeport,12829
+409,2016,Subscriber,89,Wicker Park,77382
+410,2016,Subscriber,9,Armour Square,4998
+411,2016,Subscriber,90,Ukrainian Village,15541
+412,2016,Subscriber,93,Old Town,90688
+413,2016,Subscriber,95,Austin,674
+414,2016,Subscriber,96,Gold Coast,38529
+415,2016,Subscriber,97,Boystown,25155
+416,2016,Subscriber,98,River North,268300
+417,2017,Customer,0,not yet,4741
+418,2017,Customer,1,Grand Boulevard,1402
+419,2017,Customer,10,Avalon Park,27
+420,2017,Customer,12,Hermosa,44
+421,2017,Customer,13,Avondale,910
+422,2017,Customer,14,Logan Square,9050
+423,2017,Customer,19,New City,128
+424,2017,Customer,2,Printers Row,3161
+425,2017,Customer,20,Englewood,134
+426,2017,Customer,21,Grand Crossing,135
+427,2017,Customer,26,Jackson Park,3959
+428,2017,Customer,27,Loop,144241
+429,2017,Customer,3,United Center,1492
+430,2017,Customer,32,Douglas,9560
+431,2017,Customer,33,Museum Campus,67222
+432,2017,Customer,34,Edgewater,9032
+433,2017,Customer,35,Lake View,35622
+434,2017,Customer,36,Lincoln Park,94305
+435,2017,Customer,38,Lincoln Square,3609
+436,2017,Customer,4,Sheffield & DePaul,6967
+437,2017,Customer,40,Grant Park,31825
+438,2017,Customer,41,West Loop,24769
+439,2017,Customer,42,Fuller Park,51
+440,2017,Customer,43,Andersonville,833
+441,2017,Customer,44,Woodlawn,644
+442,2017,Customer,45,Portage Park,36
+443,2017,Customer,46,Rush & Division,11842
+444,2017,Customer,47,"Little Italy, UIC",6252
+445,2017,Customer,48,Kenwood,2676
+446,2017,Customer,49,Rogers Park,3428
+447,2017,Customer,5,Humboldt Park,2605
+448,2017,Customer,52,North Park,306
+449,2017,Customer,53,Albany Park,547
+450,2017,Customer,54,Irving Park,1207
+451,2017,Customer,56,West Ridge,691
+452,2017,Customer,57,Uptown,18462
+453,2017,Customer,59,Streeterville,128657
+454,2017,Customer,6,Garfield Park,498
+455,2017,Customer,60,South Shore,588
+456,2017,Customer,61,Chatham,82
+457,2017,Customer,62,South Chicago,24
+458,2017,Customer,64,North Center,3150
+459,2017,Customer,66,Washington Park,519
+460,2017,Customer,67,Millenium Park,27582
+461,2017,Customer,68,Near South Side,17182
+462,2017,Customer,69,Chinatown,3040
+463,2017,Customer,7,North Lawndale,152
+464,2017,Customer,75,Hyde Park,9026
+465,2017,Customer,76,Bucktown,6770
+466,2017,Customer,77,Lower West Side,3496
+467,2017,Customer,78,Wrigleyville,6611
+468,2017,Customer,8,Little Village,304
+469,2017,Customer,81,Mckinley Park,284
+470,2017,Customer,82,East Village,888
+471,2017,Customer,83,West Town,10199
+472,2017,Customer,84,Bridgeport,1130
+473,2017,Customer,89,Wicker Park,11675
+474,2017,Customer,9,Armour Square,813
+475,2017,Customer,90,Ukrainian Village,1664
+476,2017,Customer,93,Old Town,23766
+477,2017,Customer,95,Austin,232
+478,2017,Customer,96,Gold Coast,30516
+479,2017,Customer,97,Boystown,7333
+480,2017,Customer,98,River North,38776
+481,2017,Dependent,36,Lincoln Park,3
+482,2017,Dependent,84,Bridgeport,4
+483,2017,Subscriber,0,not yet,22600
+484,2017,Subscriber,1,Grand Boulevard,4039
+485,2017,Subscriber,10,Avalon Park,119
+486,2017,Subscriber,12,Hermosa,676
+487,2017,Subscriber,13,Avondale,6445
+488,2017,Subscriber,14,Logan Square,47684
+489,2017,Subscriber,19,New City,1276
+490,2017,Subscriber,2,Printers Row,17053
+491,2017,Subscriber,20,Englewood,739
+492,2017,Subscriber,21,Grand Crossing,1048
+493,2017,Subscriber,26,Jackson Park,2099
+494,2017,Subscriber,27,Loop,437730
+495,2017,Subscriber,3,United Center,6719
+496,2017,Subscriber,32,Douglas,41664
+497,2017,Subscriber,33,Museum Campus,24659
+498,2017,Subscriber,34,Edgewater,27164
+499,2017,Subscriber,35,Lake View,193404
+500,2017,Subscriber,36,Lincoln Park,198339
+501,2017,Subscriber,38,Lincoln Square,49819
+502,2017,Subscriber,4,Sheffield & DePaul,66071
+503,2017,Subscriber,40,Grant Park,31008
+504,2017,Subscriber,41,West Loop,390895
+505,2017,Subscriber,42,Fuller Park,626
+506,2017,Subscriber,43,Andersonville,5909
+507,2017,Subscriber,44,Woodlawn,6171
+508,2017,Subscriber,45,Portage Park,267
+509,2017,Subscriber,46,Rush & Division,65933
+510,2017,Subscriber,47,"Little Italy, UIC",120060
+511,2017,Subscriber,48,Kenwood,6575
+512,2017,Subscriber,49,Rogers Park,23988
+513,2017,Subscriber,5,Humboldt Park,9647
+514,2017,Subscriber,52,North Park,2017
+515,2017,Subscriber,53,Albany Park,5050
+516,2017,Subscriber,54,Irving Park,9267
+517,2017,Subscriber,56,West Ridge,4397
+518,2017,Subscriber,57,Uptown,60401
+519,2017,Subscriber,59,Streeterville,130887
+520,2017,Subscriber,6,Garfield Park,2711
+521,2017,Subscriber,60,South Shore,2126
+522,2017,Subscriber,61,Chatham,517
+523,2017,Subscriber,62,South Chicago,232
+524,2017,Subscriber,64,North Center,29837
+525,2017,Subscriber,66,Washington Park,2607
+526,2017,Subscriber,67,Millenium Park,13220
+527,2017,Subscriber,68,Near South Side,61171
+528,2017,Subscriber,69,Chinatown,6066
+529,2017,Subscriber,7,North Lawndale,1484
+530,2017,Subscriber,75,Hyde Park,47145
+531,2017,Subscriber,76,Bucktown,43771
+532,2017,Subscriber,77,Lower West Side,28365
+533,2017,Subscriber,78,Wrigleyville,23650
+534,2017,Subscriber,8,Little Village,1963
+535,2017,Subscriber,81,Mckinley Park,1029
+536,2017,Subscriber,82,East Village,9072
+537,2017,Subscriber,83,West Town,103175
+538,2017,Subscriber,84,Bridgeport,12214
+539,2017,Subscriber,89,Wicker Park,74751
+540,2017,Subscriber,9,Armour Square,5456
+541,2017,Subscriber,90,Ukrainian Village,16329
+542,2017,Subscriber,93,Old Town,95775
+543,2017,Subscriber,95,Austin,1085
+544,2017,Subscriber,96,Gold Coast,42786
+545,2017,Subscriber,97,Boystown,33047
+546,2017,Subscriber,98,River North,310106
+547,2018,Customer,0,not yet,4499
+548,2018,Customer,1,Grand Boulevard,1104
+549,2018,Customer,10,Avalon Park,65
+550,2018,Customer,12,Hermosa,119
+551,2018,Customer,13,Avondale,1146
+552,2018,Customer,14,Logan Square,8762
+553,2018,Customer,19,New City,234
+554,2018,Customer,2,Printers Row,2894
+555,2018,Customer,20,Englewood,184
+556,2018,Customer,21,Grand Crossing,253
+557,2018,Customer,26,Jackson Park,3395
+558,2018,Customer,27,Loop,100837
+559,2018,Customer,3,United Center,1549
+560,2018,Customer,32,Douglas,6415
+561,2018,Customer,33,Museum Campus,36001
+562,2018,Customer,34,Edgewater,7680
+563,2018,Customer,35,Lake View,31809
+564,2018,Customer,36,Lincoln Park,62479
+565,2018,Customer,38,Lincoln Square,4463
+566,2018,Customer,4,Sheffield & DePaul,7292
+567,2018,Customer,40,Grant Park,25313
+568,2018,Customer,41,West Loop,29071
+569,2018,Customer,42,Fuller Park,65
+570,2018,Customer,43,Andersonville,995
+571,2018,Customer,44,Woodlawn,957
+572,2018,Customer,45,Portage Park,102
+573,2018,Customer,46,Rush & Division,10466
+574,2018,Customer,47,"Little Italy, UIC",7054
+575,2018,Customer,48,Kenwood,1818
+576,2018,Customer,49,Rogers Park,3668
+577,2018,Customer,5,Humboldt Park,2545
+578,2018,Customer,52,North Park,460
+579,2018,Customer,53,Albany Park,718
+580,2018,Customer,54,Irving Park,1715
+581,2018,Customer,56,West Ridge,1157
+582,2018,Customer,57,Uptown,18455
+583,2018,Customer,59,Streeterville,84170
+584,2018,Customer,6,Garfield Park,473
+585,2018,Customer,60,South Shore,605
+586,2018,Customer,61,Chatham,209
+587,2018,Customer,62,South Chicago,38
+588,2018,Customer,64,North Center,3932
+589,2018,Customer,66,Washington Park,323
+590,2018,Customer,67,Millenium Park,19315
+591,2018,Customer,68,Near South Side,15332
+592,2018,Customer,69,Chinatown,2413
+593,2018,Customer,7,North Lawndale,237
+594,2018,Customer,75,Hyde Park,9357
+595,2018,Customer,76,Bucktown,6679
+596,2018,Customer,77,Lower West Side,3950
+597,2018,Customer,78,Wrigleyville,7348
+598,2018,Customer,8,Little Village,320
+599,2018,Customer,81,Mckinley Park,269
+600,2018,Customer,82,East Village,1568
+601,2018,Customer,83,West Town,10381
+602,2018,Customer,84,Bridgeport,1284
+603,2018,Customer,89,Wicker Park,10907
+604,2018,Customer,9,Armour Square,759
+605,2018,Customer,90,Ukrainian Village,2039
+606,2018,Customer,93,Old Town,19890
+607,2018,Customer,95,Austin,316
+608,2018,Customer,96,Gold Coast,22466
+609,2018,Customer,97,Boystown,7508
+610,2018,Customer,98,River North,36871
+611,2018,Subscriber,0,not yet,15288
+612,2018,Subscriber,1,Grand Boulevard,3132
+613,2018,Subscriber,10,Avalon Park,90
+614,2018,Subscriber,12,Hermosa,524
+615,2018,Subscriber,13,Avondale,5486
+616,2018,Subscriber,14,Logan Square,39363
+617,2018,Subscriber,19,New City,1394
+618,2018,Subscriber,2,Printers Row,15115
+619,2018,Subscriber,20,Englewood,1090
+620,2018,Subscriber,21,Grand Crossing,674
+621,2018,Subscriber,26,Jackson Park,2208
+622,2018,Subscriber,27,Loop,374411
+623,2018,Subscriber,3,United Center,6246
+624,2018,Subscriber,32,Douglas,32186
+625,2018,Subscriber,33,Museum Campus,18883
+626,2018,Subscriber,34,Edgewater,22367
+627,2018,Subscriber,35,Lake View,150150
+628,2018,Subscriber,36,Lincoln Park,167929
+629,2018,Subscriber,38,Lincoln Square,38212
+630,2018,Subscriber,4,Sheffield & DePaul,49231
+631,2018,Subscriber,40,Grant Park,25235
+632,2018,Subscriber,41,West Loop,348794
+633,2018,Subscriber,42,Fuller Park,592
+634,2018,Subscriber,43,Andersonville,5461
+635,2018,Subscriber,44,Woodlawn,7605
+636,2018,Subscriber,45,Portage Park,248
+637,2018,Subscriber,46,Rush & Division,56389
+638,2018,Subscriber,47,"Little Italy, UIC",96298
+639,2018,Subscriber,48,Kenwood,5824
+640,2018,Subscriber,49,Rogers Park,19271
+641,2018,Subscriber,5,Humboldt Park,9386
+642,2018,Subscriber,52,North Park,1413
+643,2018,Subscriber,53,Albany Park,4591
+644,2018,Subscriber,54,Irving Park,8213
+645,2018,Subscriber,56,West Ridge,3552
+646,2018,Subscriber,57,Uptown,62198
+647,2018,Subscriber,59,Streeterville,106769
+648,2018,Subscriber,6,Garfield Park,1735
+649,2018,Subscriber,60,South Shore,1560
+650,2018,Subscriber,61,Chatham,548
+651,2018,Subscriber,62,South Chicago,344
+652,2018,Subscriber,64,North Center,26204
+653,2018,Subscriber,66,Washington Park,1675
+654,2018,Subscriber,67,Millenium Park,11389
+655,2018,Subscriber,68,Near South Side,50345
+656,2018,Subscriber,69,Chinatown,5346
+657,2018,Subscriber,7,North Lawndale,1552
+658,2018,Subscriber,75,Hyde Park,48139
+659,2018,Subscriber,76,Bucktown,42601
+660,2018,Subscriber,77,Lower West Side,22608
+661,2018,Subscriber,78,Wrigleyville,21430
+662,2018,Subscriber,8,Little Village,2926
+663,2018,Subscriber,81,Mckinley Park,1231
+664,2018,Subscriber,82,East Village,11065
+665,2018,Subscriber,83,West Town,90068
+666,2018,Subscriber,84,Bridgeport,9960
+667,2018,Subscriber,89,Wicker Park,60649
+668,2018,Subscriber,9,Armour Square,4862
+669,2018,Subscriber,90,Ukrainian Village,13425
+670,2018,Subscriber,93,Old Town,80060
+671,2018,Subscriber,95,Austin,730
+672,2018,Subscriber,96,Gold Coast,34451
+673,2018,Subscriber,97,Boystown,31333
+674,2018,Subscriber,98,River North,278776
+675,2019,Customer,0,not yet,5235
+676,2019,Customer,1,Grand Boulevard,1590
+677,2019,Customer,10,Avalon Park,80
+678,2019,Customer,12,Hermosa,200
+679,2019,Customer,13,Avondale,1806
+680,2019,Customer,14,Logan Square,12637
+681,2019,Customer,19,New City,417
+682,2019,Customer,2,Printers Row,3925
+683,2019,Customer,20,Englewood,260
+684,2019,Customer,21,Grand Crossing,317
+685,2019,Customer,26,Jackson Park,4233
+686,2019,Customer,27,Loop,138732
+687,2019,Customer,3,United Center,2263
+688,2019,Customer,32,Douglas,8450
+689,2019,Customer,33,Museum Campus,43590
+690,2019,Customer,34,Edgewater,10386
+691,2019,Customer,35,Lake View,47435
+692,2019,Customer,36,Lincoln Park,85284
+693,2019,Customer,38,Lincoln Square,6975
+694,2019,Customer,4,Sheffield & DePaul,11009
+695,2019,Customer,40,Grant Park,32065
+696,2019,Customer,41,West Loop,43434
+697,2019,Customer,42,Fuller Park,95
+698,2019,Customer,43,Andersonville,1415
+699,2019,Customer,44,Woodlawn,1764
+700,2019,Customer,45,Portage Park,82
+701,2019,Customer,46,Rush & Division,13723
+702,2019,Customer,47,"Little Italy, UIC",10648
+703,2019,Customer,48,Kenwood,2550
+704,2019,Customer,49,Rogers Park,5313
+705,2019,Customer,5,Humboldt Park,3025
+706,2019,Customer,52,North Park,596
+707,2019,Customer,53,Albany Park,987
+708,2019,Customer,54,Irving Park,2858
+709,2019,Customer,56,West Ridge,1510
+710,2019,Customer,57,Uptown,26900
+711,2019,Customer,59,Streeterville,97500
+712,2019,Customer,6,Garfield Park,649
+713,2019,Customer,60,South Shore,900
+714,2019,Customer,61,Chatham,304
+715,2019,Customer,62,South Chicago,73
+716,2019,Customer,64,North Center,6127
+717,2019,Customer,66,Washington Park,563
+718,2019,Customer,67,Millenium Park,21749
+719,2019,Customer,68,Near South Side,18329
+720,2019,Customer,69,Chinatown,2719
+721,2019,Customer,7,North Lawndale,521
+722,2019,Customer,75,Hyde Park,12652
+723,2019,Customer,76,Bucktown,10622
+724,2019,Customer,77,Lower West Side,5723
+725,2019,Customer,78,Wrigleyville,9102
+726,2019,Customer,8,Little Village,563
+727,2019,Customer,81,Mckinley Park,469
+728,2019,Customer,82,East Village,2594
+729,2019,Customer,83,West Town,16321
+730,2019,Customer,84,Bridgeport,1945
+731,2019,Customer,89,Wicker Park,15256
+732,2019,Customer,9,Armour Square,1038
+733,2019,Customer,90,Ukrainian Village,2866
+734,2019,Customer,93,Old Town,26858
+735,2019,Customer,95,Austin,677
+736,2019,Customer,96,Gold Coast,29621
+737,2019,Customer,97,Boystown,10111
+738,2019,Customer,98,River North,52986
+739,2019,Subscriber,0,not yet,18742
+740,2019,Subscriber,1,Grand Boulevard,3340
+741,2019,Subscriber,10,Avalon Park,63
+742,2019,Subscriber,12,Hermosa,572
+743,2019,Subscriber,13,Avondale,6212
+744,2019,Subscriber,14,Logan Square,42825
+745,2019,Subscriber,19,New City,1866
+746,2019,Subscriber,2,Printers Row,15820
+747,2019,Subscriber,20,Englewood,770
+748,2019,Subscriber,21,Grand Crossing,398
+749,2019,Subscriber,26,Jackson Park,2140
+750,2019,Subscriber,27,Loop,423042
+751,2019,Subscriber,3,United Center,10587
+752,2019,Subscriber,32,Douglas,29009
+753,2019,Subscriber,33,Museum Campus,20291
+754,2019,Subscriber,34,Edgewater,24306
+755,2019,Subscriber,35,Lake View,176053
+756,2019,Subscriber,36,Lincoln Park,187187
+757,2019,Subscriber,38,Lincoln Square,44644
+758,2019,Subscriber,4,Sheffield & DePaul,57264
+759,2019,Subscriber,40,Grant Park,30251
+760,2019,Subscriber,41,West Loop,400277
+761,2019,Subscriber,42,Fuller Park,752
+762,2019,Subscriber,43,Andersonville,5571
+763,2019,Subscriber,44,Woodlawn,6940
+764,2019,Subscriber,45,Portage Park,491
+765,2019,Subscriber,46,Rush & Division,64134
+766,2019,Subscriber,47,"Little Italy, UIC",105706
+767,2019,Subscriber,48,Kenwood,7102
+768,2019,Subscriber,49,Rogers Park,21263
+769,2019,Subscriber,5,Humboldt Park,11036
+770,2019,Subscriber,52,North Park,1625
+771,2019,Subscriber,53,Albany Park,4146
+772,2019,Subscriber,54,Irving Park,9863
+773,2019,Subscriber,56,West Ridge,4657
+774,2019,Subscriber,57,Uptown,74207
+775,2019,Subscriber,59,Streeterville,122928
+776,2019,Subscriber,6,Garfield Park,2315
+777,2019,Subscriber,60,South Shore,1328
+778,2019,Subscriber,61,Chatham,591
+779,2019,Subscriber,62,South Chicago,88
+780,2019,Subscriber,64,North Center,29800
+781,2019,Subscriber,66,Washington Park,1684
+782,2019,Subscriber,67,Millenium Park,12357
+783,2019,Subscriber,68,Near South Side,53912
+784,2019,Subscriber,69,Chinatown,5780
+785,2019,Subscriber,7,North Lawndale,1373
+786,2019,Subscriber,75,Hyde Park,56409
+787,2019,Subscriber,76,Bucktown,48764
+788,2019,Subscriber,77,Lower West Side,26764
+789,2019,Subscriber,78,Wrigleyville,21570
+790,2019,Subscriber,8,Little Village,2362
+791,2019,Subscriber,81,Mckinley Park,1350
+792,2019,Subscriber,82,East Village,16067
+793,2019,Subscriber,83,West Town,111427
+794,2019,Subscriber,84,Bridgeport,12205
+795,2019,Subscriber,89,Wicker Park,71043
+796,2019,Subscriber,9,Armour Square,5069
+797,2019,Subscriber,90,Ukrainian Village,16630
+798,2019,Subscriber,93,Old Town,92467
+799,2019,Subscriber,95,Austin,1133
+800,2019,Subscriber,96,Gold Coast,40647
+801,2019,Subscriber,97,Boystown,34357
+802,2019,Subscriber,98,River North,333748
+803,2020,Customer,0,Outside,2107
+804,2020,Customer,0,not yet,10674
+805,2020,Customer,1,Grand Boulevard,6011
+806,2020,Customer,10,Avalon Park,441
+807,2020,Customer,11,Burnside,91
+808,2020,Customer,12,Hermosa,755
+809,2020,Customer,13,Avondale,4777
+810,2020,Customer,14,Logan Square,27601
+811,2020,Customer,15,Calumet Heights,143
+812,2020,Customer,16,East Side,155
+813,2020,Customer,17,West Pullman,189
+814,2020,Customer,18,Garfield Ridge,4
+815,2020,Customer,19,New City,1920
+816,2020,Customer,2,Printers Row,8648
+817,2020,Customer,20,Englewood,1442
+818,2020,Customer,21,Grand Crossing,1334
+819,2020,Customer,22,Ashburn,49
+820,2020,Customer,23,Mount Greenwood,19
+821,2020,Customer,24,Morgan Park,237
+822,2020,Customer,26,Jackson Park,6337
+823,2020,Customer,27,Loop,152776
+824,2020,Customer,28,Pullman,189
+825,2020,Customer,29,Riverdale,20
+826,2020,Customer,3,United Center,3541
+827,2020,Customer,30,Hegewisch,159
+828,2020,Customer,31,Greektown,122
+829,2020,Customer,32,Douglas,17897
+830,2020,Customer,33,Museum Campus,21657
+831,2020,Customer,34,Edgewater,20318
+832,2020,Customer,35,Lake View,101919
+833,2020,Customer,36,Lincoln Park,127685
+834,2020,Customer,38,Lincoln Square,15172
+835,2020,Customer,39,Oakland,112
+836,2020,Customer,4,Sheffield & DePaul,23541
+837,2020,Customer,40,Grant Park,37961
+838,2020,Customer,41,West Loop,62005
+839,2020,Customer,42,Fuller Park,374
+840,2020,Customer,43,Andersonville,3242
+841,2020,Customer,44,Woodlawn,4598
+842,2020,Customer,45,Portage Park,631
+843,2020,Customer,46,Rush & Division,32321
+844,2020,Customer,47,"Little Italy, UIC",20838
+845,2020,Customer,48,Kenwood,7442
+846,2020,Customer,49,Rogers Park,13588
+847,2020,Customer,5,Humboldt Park,12042
+848,2020,Customer,50,Jefferson Park,47
+849,2020,Customer,51,"Sauganash,Forest Glen",33
+850,2020,Customer,52,North Park,1933
+851,2020,Customer,53,Albany Park,3376
+852,2020,Customer,54,Irving Park,8127
+853,2020,Customer,55,Dunning,12
+854,2020,Customer,56,West Ridge,4635
+855,2020,Customer,57,Uptown,49433
+856,2020,Customer,59,Streeterville,83974
+857,2020,Customer,6,Garfield Park,1999
+858,2020,Customer,60,South Shore,4451
+859,2020,Customer,61,Chatham,1598
+860,2020,Customer,62,South Chicago,974
+861,2020,Customer,63,Roseland,569
+862,2020,Customer,64,North Center,14082
+863,2020,Customer,65,South Deering,313
+864,2020,Customer,66,Washington Park,1261
+865,2020,Customer,67,Millenium Park,18883
+866,2020,Customer,68,Near South Side,27114
+867,2020,Customer,69,Chinatown,4092
+868,2020,Customer,7,North Lawndale,1328
+869,2020,Customer,70,Chicago Lawn,85
+870,2020,Customer,71,Auburn Gresham,387
+871,2020,Customer,72,Beverly,425
+872,2020,Customer,73,Washington Heights,326
+873,2020,Customer,75,Hyde Park,26297
+874,2020,Customer,76,Bucktown,17688
+875,2020,Customer,77,Lower West Side,11882
+876,2020,Customer,78,Wrigleyville,15828
+877,2020,Customer,8,Little Village,2013
+878,2020,Customer,80,Brighton Park,21
+879,2020,Customer,81,Mckinley Park,1784
+880,2020,Customer,82,East Village,6812
+881,2020,Customer,83,West Town,43304
+882,2020,Customer,84,Bridgeport,4563
+883,2020,Customer,85,West Elsdon,3
+884,2020,Customer,86,Gage Park,14
+885,2020,Customer,88,West Lawn,3
+886,2020,Customer,89,Wicker Park,29912
+887,2020,Customer,9,Armour Square,1544
+888,2020,Customer,90,Ukrainian Village,6687
+889,2020,Customer,91,Galewood,3
+890,2020,Customer,93,Old Town,50562
+891,2020,Customer,94,Belmont Cragin,54
+892,2020,Customer,95,Austin,2557
+893,2020,Customer,96,Gold Coast,30777
+894,2020,Customer,97,Boystown,22311
+895,2020,Customer,98,River North,109415
+896,2020,Subscriber,0,Outside,2917
+897,2020,Subscriber,0,not yet,14498
+898,2020,Subscriber,1,Grand Boulevard,4539
+899,2020,Subscriber,10,Avalon Park,346
+900,2020,Subscriber,11,Burnside,10
+901,2020,Subscriber,12,Hermosa,417
+902,2020,Subscriber,13,Avondale,6048
+903,2020,Subscriber,14,Logan Square,41055
+904,2020,Subscriber,15,Calumet Heights,59
+905,2020,Subscriber,16,East Side,48
+906,2020,Subscriber,17,West Pullman,121
+907,2020,Subscriber,18,Garfield Ridge,1
+908,2020,Subscriber,19,New City,1699
+909,2020,Subscriber,2,Printers Row,12391
+910,2020,Subscriber,20,Englewood,1338
+911,2020,Subscriber,21,Grand Crossing,1075
+912,2020,Subscriber,22,Ashburn,16
+913,2020,Subscriber,23,Mount Greenwood,5
+914,2020,Subscriber,24,Morgan Park,38
+915,2020,Subscriber,25,O'Hare,2
+916,2020,Subscriber,26,Jackson Park,3946
+917,2020,Subscriber,27,Loop,203833
+918,2020,Subscriber,28,Pullman,102
+919,2020,Subscriber,29,Riverdale,4
+920,2020,Subscriber,3,United Center,5932
+921,2020,Subscriber,30,Hegewisch,16
+922,2020,Subscriber,31,Greektown,489
+923,2020,Subscriber,32,Douglas,24421
+924,2020,Subscriber,33,Museum Campus,21535
+925,2020,Subscriber,34,Edgewater,31822
+926,2020,Subscriber,35,Lake View,174195
+927,2020,Subscriber,36,Lincoln Park,183849
+928,2020,Subscriber,38,Lincoln Square,34305
+929,2020,Subscriber,39,Oakland,285
+930,2020,Subscriber,4,Sheffield & DePaul,43338
+931,2020,Subscriber,40,Grant Park,21732
+932,2020,Subscriber,41,West Loop,166166
+933,2020,Subscriber,42,Fuller Park,687
+934,2020,Subscriber,43,Andersonville,5592
+935,2020,Subscriber,44,Woodlawn,6626
+936,2020,Subscriber,45,Portage Park,576
+937,2020,Subscriber,46,Rush & Division,55125
+938,2020,Subscriber,47,"Little Italy, UIC",73436
+939,2020,Subscriber,48,Kenwood,7570
+940,2020,Subscriber,49,Rogers Park,20570
+941,2020,Subscriber,5,Humboldt Park,14840
+942,2020,Subscriber,50,Jefferson Park,28
+943,2020,Subscriber,51,"Sauganash,Forest Glen",20
+944,2020,Subscriber,52,North Park,1805
+945,2020,Subscriber,53,Albany Park,4290
+946,2020,Subscriber,54,Irving Park,11263
+947,2020,Subscriber,55,Dunning,1
+948,2020,Subscriber,56,West Ridge,6137
+949,2020,Subscriber,57,Uptown,83337
+950,2020,Subscriber,58,Norwood Park,1
+951,2020,Subscriber,59,Streeterville,98871
+952,2020,Subscriber,6,Garfield Park,2207
+953,2020,Subscriber,60,South Shore,3870
+954,2020,Subscriber,61,Chatham,900
+955,2020,Subscriber,62,South Chicago,542
+956,2020,Subscriber,63,Roseland,314
+957,2020,Subscriber,64,North Center,27233
+958,2020,Subscriber,65,South Deering,109
+959,2020,Subscriber,66,Washington Park,1515
+960,2020,Subscriber,67,Millenium Park,5985
+961,2020,Subscriber,68,Near South Side,43963
+962,2020,Subscriber,69,Chinatown,5483
+963,2020,Subscriber,7,North Lawndale,1390
+964,2020,Subscriber,70,Chicago Lawn,19
+965,2020,Subscriber,71,Auburn Gresham,458
+966,2020,Subscriber,72,Beverly,304
+967,2020,Subscriber,73,Washington Heights,136
+968,2020,Subscriber,75,Hyde Park,50227
+969,2020,Subscriber,76,Bucktown,34774
+970,2020,Subscriber,77,Lower West Side,21395
+971,2020,Subscriber,78,Wrigleyville,22521
+972,2020,Subscriber,79,Archer Heights,4
+973,2020,Subscriber,8,Little Village,2574
+974,2020,Subscriber,80,Brighton Park,29
+975,2020,Subscriber,81,Mckinley Park,1363
+976,2020,Subscriber,82,East Village,13065
+977,2020,Subscriber,83,West Town,84587
+978,2020,Subscriber,84,Bridgeport,10251
+979,2020,Subscriber,86,Gage Park,12
+980,2020,Subscriber,89,Wicker Park,52047
+981,2020,Subscriber,9,Armour Square,3194
+982,2020,Subscriber,90,Ukrainian Village,14409
+983,2020,Subscriber,93,Old Town,78188
+984,2020,Subscriber,94,Belmont Cragin,17
+985,2020,Subscriber,95,Austin,1927
+986,2020,Subscriber,96,Gold Coast,36104
+987,2020,Subscriber,97,Boystown,40570
+988,2020,Subscriber,98,River North,220054
+989,2021,Customer,0,Outside,30690
+990,2021,Customer,1,Grand Boulevard,7393
+991,2021,Customer,10,Avalon Park,1053
+992,2021,Customer,11,Burnside,225
+993,2021,Customer,12,Hermosa,3302
+994,2021,Customer,13,Avondale,10219
+995,2021,Customer,14,Logan Square,69507
+996,2021,Customer,15,Calumet Heights,682
+997,2021,Customer,16,East Side,1259
+998,2021,Customer,17,West Pullman,1370
+999,2021,Customer,18,Garfield Ridge,254
+1000,2021,Customer,19,New City,3112
+1001,2021,Customer,2,Printers Row,15404
+1002,2021,Customer,20,Englewood,4447
+1003,2021,Customer,21,Grand Crossing,3601
+1004,2021,Customer,22,Ashburn,386
+1005,2021,Customer,23,Mount Greenwood,728
+1006,2021,Customer,24,Morgan Park,1517
+1007,2021,Customer,25,O'Hare,5
+1008,2021,Customer,26,Jackson Park,8098
+1009,2021,Customer,27,Loop,244050
+1010,2021,Customer,28,Pullman,1277
+1011,2021,Customer,29,Riverdale,369
+1012,2021,Customer,3,United Center,9574
+1013,2021,Customer,30,Hegewisch,739
+1014,2021,Customer,32,Douglas,19094
+1015,2021,Customer,33,Museum Campus,46698
+1016,2021,Customer,34,Edgewater,26222
+1017,2021,Customer,35,Lake View,189772
+1018,2021,Customer,36,Lincoln Park,223553
+1019,2021,Customer,38,Lincoln Square,26053
+1020,2021,Customer,39,Oakland,928
+1021,2021,Customer,4,Sheffield & DePaul,66700
+1022,2021,Customer,40,Grant Park,55902
+1023,2021,Customer,41,West Loop,129655
+1024,2021,Customer,42,Fuller Park,974
+1025,2021,Customer,43,Andersonville,6290
+1026,2021,Customer,44,Woodlawn,10120
+1027,2021,Customer,45,Portage Park,4201
+1028,2021,Customer,46,Rush & Division,51912
+1029,2021,Customer,47,"Little Italy, UIC",35252
+1030,2021,Customer,48,Kenwood,8579
+1031,2021,Customer,49,Rogers Park,17571
+1032,2021,Customer,5,Humboldt Park,24015
+1033,2021,Customer,50,Jefferson Park,620
+1034,2021,Customer,51,"Sauganash,Forest Glen",85
+1035,2021,Customer,52,North Park,2650
+1036,2021,Customer,53,Albany Park,5313
+1037,2021,Customer,54,Irving Park,18960
+1038,2021,Customer,55,Dunning,2140
+1039,2021,Customer,56,West Ridge,7479
+1040,2021,Customer,57,Uptown,72405
+1041,2021,Customer,59,Streeterville,170847
+1042,2021,Customer,6,Garfield Park,4963
+1043,2021,Customer,60,South Shore,6408
+1044,2021,Customer,61,Chatham,4475
+1045,2021,Customer,62,South Chicago,2365
+1046,2021,Customer,63,Roseland,4201
+1047,2021,Customer,64,North Center,27992
+1048,2021,Customer,65,South Deering,1209
+1049,2021,Customer,66,Washington Park,3235
+1050,2021,Customer,67,Millenium Park,33590
+1051,2021,Customer,68,Near South Side,38407
+1052,2021,Customer,69,Chinatown,9697
+1053,2021,Customer,7,North Lawndale,4546
+1054,2021,Customer,70,Chicago Lawn,1004
+1055,2021,Customer,71,Auburn Gresham,1763
+1056,2021,Customer,72,Beverly,2746
+1057,2021,Customer,73,Washington Heights,2019
+1058,2021,Customer,75,Hyde Park,53371
+1059,2021,Customer,76,Bucktown,31704
+1060,2021,Customer,77,Lower West Side,20465
+1061,2021,Customer,78,Wrigleyville,32434
+1062,2021,Customer,79,Archer Heights,251
+1063,2021,Customer,8,Little Village,4929
+1064,2021,Customer,80,Brighton Park,819
+1065,2021,Customer,81,Mckinley Park,1939
+1066,2021,Customer,82,East Village,13561
+1067,2021,Customer,83,West Town,80091
+1068,2021,Customer,84,Bridgeport,8113
+1069,2021,Customer,85,West Elsdon,431
+1070,2021,Customer,86,Gage Park,1326
+1071,2021,Customer,87,Clearing,26
+1072,2021,Customer,88,West Lawn,287
+1073,2021,Customer,89,Wicker Park,63953
+1074,2021,Customer,9,Armour Square,3499
+1075,2021,Customer,90,Ukrainian Village,18274
+1076,2021,Customer,91,Galewood,549
+1077,2021,Customer,92,Montclare,333
+1078,2021,Customer,93,Old Town,91052
+1079,2021,Customer,94,Belmont Cragin,6137
+1080,2021,Customer,95,Austin,7152
+1081,2021,Customer,96,Gold Coast,60304
+1082,2021,Customer,97,Boystown,36068
+1083,2021,Customer,98,River North,200066
+1084,2021,Subscriber,0,Outside,29085
+1085,2021,Subscriber,1,Grand Boulevard,4523
+1086,2021,Subscriber,10,Avalon Park,595
+1087,2021,Subscriber,11,Burnside,44
+1088,2021,Subscriber,12,Hermosa,3449
+1089,2021,Subscriber,13,Avondale,11598
+1090,2021,Subscriber,14,Logan Square,72668
+1091,2021,Subscriber,15,Calumet Heights,389
+1092,2021,Subscriber,16,East Side,284
+1093,2021,Subscriber,17,West Pullman,1159
+1094,2021,Subscriber,18,Garfield Ridge,86
+1095,2021,Subscriber,19,New City,2704
+1096,2021,Subscriber,2,Printers Row,17315
+1097,2021,Subscriber,20,Englewood,2495
+1098,2021,Subscriber,21,Grand Crossing,1256
+1099,2021,Subscriber,22,Ashburn,213
+1100,2021,Subscriber,23,Mount Greenwood,104
+1101,2021,Subscriber,24,Morgan Park,761
+1102,2021,Subscriber,25,O'Hare,6
+1103,2021,Subscriber,26,Jackson Park,5415
+1104,2021,Subscriber,27,Loop,252932
+1105,2021,Subscriber,28,Pullman,622
+1106,2021,Subscriber,29,Riverdale,123
+1107,2021,Subscriber,3,United Center,10322
+1108,2021,Subscriber,30,Hegewisch,131
+1109,2021,Subscriber,32,Douglas,37044
+1110,2021,Subscriber,33,Museum Campus,20995
+1111,2021,Subscriber,34,Edgewater,38502
+1112,2021,Subscriber,35,Lake View,234346
+1113,2021,Subscriber,36,Lincoln Park,232026
+1114,2021,Subscriber,38,Lincoln Square,46726
+1115,2021,Subscriber,39,Oakland,909
+1116,2021,Subscriber,4,Sheffield & DePaul,90265
+1117,2021,Subscriber,40,Grant Park,27325
+1118,2021,Subscriber,41,West Loop,228652
+1119,2021,Subscriber,42,Fuller Park,775
+1120,2021,Subscriber,43,Andersonville,7846
+1121,2021,Subscriber,44,Woodlawn,23028
+1122,2021,Subscriber,45,Portage Park,4364
+1123,2021,Subscriber,46,Rush & Division,71546
+1124,2021,Subscriber,47,"Little Italy, UIC",110081
+1125,2021,Subscriber,48,Kenwood,9228
+1126,2021,Subscriber,49,Rogers Park,27169
+1127,2021,Subscriber,5,Humboldt Park,24832
+1128,2021,Subscriber,50,Jefferson Park,359
+1129,2021,Subscriber,51,"Sauganash,Forest Glen",272
+1130,2021,Subscriber,52,North Park,2658
+1131,2021,Subscriber,53,Albany Park,7058
+1132,2021,Subscriber,54,Irving Park,22912
+1133,2021,Subscriber,55,Dunning,1009
+1134,2021,Subscriber,56,West Ridge,8213
+1135,2021,Subscriber,57,Uptown,94414
+1136,2021,Subscriber,59,Streeterville,130704
+1137,2021,Subscriber,6,Garfield Park,4152
+1138,2021,Subscriber,60,South Shore,4844
+1139,2021,Subscriber,61,Chatham,2373
+1140,2021,Subscriber,62,South Chicago,2118
+1141,2021,Subscriber,63,Roseland,2358
+1142,2021,Subscriber,64,North Center,39549
+1143,2021,Subscriber,65,South Deering,534
+1144,2021,Subscriber,66,Washington Park,3238
+1145,2021,Subscriber,67,Millenium Park,8633
+1146,2021,Subscriber,68,Near South Side,50826
+1147,2021,Subscriber,69,Chinatown,7548
+1148,2021,Subscriber,7,North Lawndale,2796
+1149,2021,Subscriber,70,Chicago Lawn,396
+1150,2021,Subscriber,71,Auburn Gresham,551
+1151,2021,Subscriber,72,Beverly,1098
+1152,2021,Subscriber,73,Washington Heights,1075
+1153,2021,Subscriber,75,Hyde Park,133695
+1154,2021,Subscriber,76,Bucktown,37558
+1155,2021,Subscriber,77,Lower West Side,26167
+1156,2021,Subscriber,78,Wrigleyville,32071
+1157,2021,Subscriber,79,Archer Heights,137
+1158,2021,Subscriber,8,Little Village,4967
+1159,2021,Subscriber,80,Brighton Park,704
+1160,2021,Subscriber,81,Mckinley Park,1937
+1161,2021,Subscriber,82,East Village,17394
+1162,2021,Subscriber,83,West Town,114721
+1163,2021,Subscriber,84,Bridgeport,15384
+1164,2021,Subscriber,85,West Elsdon,65
+1165,2021,Subscriber,86,Gage Park,256
+1166,2021,Subscriber,87,Clearing,4
+1167,2021,Subscriber,88,West Lawn,49
+1168,2021,Subscriber,89,Wicker Park,72574
+1169,2021,Subscriber,9,Armour Square,6966
+1170,2021,Subscriber,90,Ukrainian Village,22868
+1171,2021,Subscriber,91,Galewood,221
+1172,2021,Subscriber,92,Montclare,227
+1173,2021,Subscriber,93,Old Town,105280
+1174,2021,Subscriber,94,Belmont Cragin,5738
+1175,2021,Subscriber,95,Austin,7575
+1176,2021,Subscriber,96,Gold Coast,51148
+1177,2021,Subscriber,97,Boystown,48820
+1178,2021,Subscriber,98,River North,305906
